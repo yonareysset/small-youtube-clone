@@ -23,8 +23,7 @@ class App extends Component {
                     part: ' snippet',
                     type: 'video',
                     maxResults: 5,
-                    key: 'AIzaSyCu7Sv51TtqIhCthrEB3f-szJL0p5PjtPw'
-                    // key: 'AIzaSyDzsxPrR94f3SK5mR9dHHbMu3NcA46JKpo'
+                    key: ''
                 }
             })
 
